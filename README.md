@@ -22,3 +22,4 @@ You may add your names and links below
 ---
 
 - Alan George Mathews https://github.com/alanmathews9
+  Binaya Ginesh https://github.com/binayaginesh
